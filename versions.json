@@ -1,4 +1,3 @@
-
 {
   "latest": "0.5.1",
   "versions": [
@@ -7,7 +6,8 @@
       "name": "MYWORLD Alpha 0.5.1",
       "url": "https://github.com/Eldar4k2/MYWORLD-Updates/releases/download/0.5.1/MYWORLD.zip.zip",
       "exe": "MYWORLD.exe",
-      "notes": "Первая публичная сборка MYWORLD Alpha 0.5.1."
+      "sha256": "edd1a61454914551c8e1ef4cfc60b6dd0b8a918f9ddaf3bc16eb16147eb2f1c8",
+      "notes": "Первая сборка MYWORLD Alpha 0.5.1."
     }
   ]
 }
