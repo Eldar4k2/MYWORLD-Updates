@@ -1,0 +1,13 @@
+
+{
+  "latest": "0.5.1",
+  "versions": [
+    {
+      "id": "0.5.1",
+      "name": "Альфа 0.5.1",
+      "notes": "Первая публичная сборка MYWORLD.",
+      "url": "https://github.com/Eldar4k2/MYWORLD-Updates/releases/download/0.5.1/MYWORLD.zip.zip",
+      "exe": "MYWORLD.exe"
+    }
+  ]
+}
